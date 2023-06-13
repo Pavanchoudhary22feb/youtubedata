@@ -10,18 +10,18 @@ we are fatching 3 types of data as follows.
 # Note: We are using streamlit to devlope web application which is based on python code.
 Import All required liberaries if they are not available install them using pip
 
-from googleapiclient.discovery import build
-from dateutil import parser
-import pandas as pd
-import streamlit as st
-from streamlit_option_menu import option_menu
-import isodate
-import pymongo
-from pymongo import MongoClient
-import mysql.connector
-import numpy as np
-from PIL import Image
-import plotly.express as px
+#from googleapiclient.discovery import build
+#from dateutil import parser
+#import pandas as pd
+#import streamlit as st
+#from streamlit_option_menu import option_menu
+#import isodate
+#import pymongo
+#from pymongo import MongoClient
+#import mysql.connector
+#import numpy as np
+#from PIL import Image
+#import plotly.express as px
 
 
 Create Page configguration and options menu.
